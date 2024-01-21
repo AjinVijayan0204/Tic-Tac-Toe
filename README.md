@@ -2,3 +2,4 @@
 
 ![Simulator Screenshot - iPhone 14 Pro - 2024-01-21 at 10 27 10](https://github.com/AjinVijayan0204/Tic-Tac-Toe/assets/108613536/2228f758-2e55-48d5-ac99-84459c1229ad)
 ![Simulator Screenshot - iPhone 14 Pro - 2024-01-21 at 10 36 06](https://github.com/AjinVijayan0204/Tic-Tac-Toe/assets/108613536/a52a9f91-50f3-43e6-9a50-8a68c6f66b72)
+![Simulator Screenshot - iPhone 14 Pro - 2024-01-21 at 10 36 14](https://github.com/AjinVijayan0204/Tic-Tac-Toe/assets/108613536/0528c9c2-16b7-48e8-b49d-43181075972e)
